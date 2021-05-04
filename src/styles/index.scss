@@ -1,5 +1,39 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.red {
+    background-color: red;
+    
+}
+.redoff {
+    background-color: rgb(83, 2, 2);
+}
+.yellowoff {
+    background-color: rgb(61, 61, 4);
+}
+.greenoff {
+    background-color: rgb(3, 49, 3);
+}
+.borde {
+    padding: 50px;
+    border-radius: 180px;
+    }
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
+.container {
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 10%;
+    padding: 20px;
+    width: 150px;
+    height: 400px;
+}
+
+   
 /* 
 
     You can write your own styles here...
